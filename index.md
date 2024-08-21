@@ -43,9 +43,9 @@ Our services include:
 
 ## Prices {#Prices}
 
-__Sweep__ | _£50_ <small>(Takes 45-60 mins)</small>
-__Ingle nook__ | from _£75_
-__Birds nest removal__ | _£50_ for the 1<sup>st</sup> hour and _£25_ per half hour after
+__Sweep__ | _£60_ <small>(Takes 45-60 mins)</small>
+__Ingle nook__ | from _£85_
+__Birds nest removal__ | _£60_ for the 1<sup>st</sup> hour and _£30_ per half hour after
 __Advice__ | _Free_
 {:.Table .Table--prices}
 
